@@ -18,6 +18,7 @@ Finding the given length of the words by using len() fuction.
 ### Step 6: 
 Calling the function and Printing the number of words.
 ## PROGRAM:
+```
 #Program to find the word count.
 #Developed by: Tirupathi Jayadeep
 #RegisterNumber:23004426
@@ -27,6 +28,7 @@ for i in f:
 word=i.split()
 num_word+=len(word)
 print("number of words ={}".format(num_word)
+```
 ### OUTPUT:
 ![Screenshot 2023-12-25 114417](https://github.com/23004426/Word-count/assets/144979327/cb28f3fb-a248-4d06-9ecf-7687ca6429a8)
 
