@@ -20,8 +20,8 @@ Calling the function and Printing the number of words.
 ## PROGRAM:
 ```
 #Program to find the word count.
-#Developed by: Tirupathi Jayadeep
-#RegisterNumber:23004426
+#Developed by: Thamizh Kumaran P S
+#RegisterNumber:23004070
 num_word=0
 with open ("sample.txt",'r') as f:
 for i in f:
